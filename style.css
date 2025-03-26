@@ -1,0 +1,14 @@
+.container {
+  display: flex; /* Use flexbox for layout */
+}
+
+.sidebar {
+  width: 200px; /* Adjust width as needed */
+  border-right: 1px solid #ccc; /* Add right border */
+  padding: 20px;
+}
+
+.main-content {
+  flex: 1; /* Allow main content to expand */
+  padding: 20px;
+}
