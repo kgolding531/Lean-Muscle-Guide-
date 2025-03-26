@@ -10,6 +10,8 @@ And so I have decided to archive this project due to the sheer complexity of it.
 
 I am not sure if I am just giving up, but I think I need to focus my time and skills on other stuff that I need to get done. The main aim was to get practice so that I was able to build the HVNCOG website for my church. 
 
+There is also more information that I wanted to add by doing a google search such as “lean bulk program to build muscle mass.”
+
 But in any case, if I or anyone would like to continue this project in the future they can using this information below:
 
 ## LeanMuscleGuide Website Images
